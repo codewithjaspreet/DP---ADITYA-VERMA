@@ -1,3 +1,9 @@
+//Algorithm 
+
+   // 1. Sort the given array of items according to weight / value(W /V) ratio in descending order.
+   // 2 .Start adding the item with the maximum W / V ratio.
+   // 3.  Add the whole item, if the current weight is less than the capacity, else, add a portion of the item to the knapsack.
+   // 4. Stop, when all the items have been considered and the total weight becomes equal to the weight of the given knapsack.
 class itemComparator implements Comparator<Item>
 {
     @Override
