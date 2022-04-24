@@ -6,7 +6,7 @@ public class lcs_topDown {
 
             int[][] dp = new int[1001][1001];
 
-
+           // initialisation as the base condition in recursive solution
             for(int i = 0 ; i < n+1 ; i++){
 
                 for(int j = 0 ; j < m + 1 ; j++){
