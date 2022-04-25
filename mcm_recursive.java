@@ -4,6 +4,8 @@
 // step 4 : calculate temp ans then apply the function to get final ans
 // great article to refer :
 
+// time complexity for this naive solution is exponential
+
 //  * https://leetcode.com/discuss/general-discussion/1278305/all-about-matrix-chain-multiplication-easy *
 
 public class mcm_recursive {
