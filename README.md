@@ -1,5 +1,5 @@
 
-Java Solutions of Dynamic Programming series by Sir Aditya Verma on Youtube 🔥
+Java Solutions of Dynamic Programming series by Sir Aditya Verma on Youtube🔥
 
 This playlist explains Dynamic Programming in a concise way. Explaining how to approach a Dynamic Programming problem and moreover how to identify it first.
 
